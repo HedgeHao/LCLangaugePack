@@ -222,20 +222,20 @@
         "About LiveCode": "Informazioni su Livecode"
       },
       "IconLabel": {
-        "Inspector": "屬性面板",
-        "Code": "程式碼",
-        "Message Box": "程式訊息",
-        "Group": "群組",
-        "UnGroup": "取消群組",
-        "Edit Group": "編輯群組",
-        "Select Grouped": "選擇群組內元件",
-        "Messages": "訊息資訊",
-        "Errors": "錯誤資訊",
-        "Sample Stacks": "範例程式",
-        "Tutorials": "教學",
-        "Resources": "資源",
-        "Dictionary": "字典",
-        "Test": "部署測試"
+        "Inspector": "Ispettore",
+        "Code": "Codice",
+        "Message Box": "Terminale",
+        "Group": "Gruppo",
+        "UnGroup": "Scolla",
+        "Edit Group": "Modifica",
+        "Select Grouped": "Seleziona nei gruppo",
+        "Messages": "Messaggi",
+        "Errors": "Errori",
+        "Sample Stacks": "esempi",
+        "Tutorials": "Tutorials",
+        "Resources": "Risorse",
+        "Dictionary": "Dizionario",
+        "Test": "Test"
       }
     },
     "Inspector": {
