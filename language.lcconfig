@@ -167,18 +167,18 @@
         "Right": "Destra"
       },
       "Development": {
-        "Object Library": "物件庫",
-        "Image Library": "圖庫",
-        "Plugins": "插件",
-        "Plugin Settings": "插件設定",
-        "Test": "部署測試",
-        "Test Target": "測試目標裝置",
-        "Script Debug Mode": "除錯模式",
-        "Clear All Breakpoints": "清除所有中斷點",
-        "Message Watcher": "訊息監看面板",
-        "Suppress Errors": "關閉錯誤資訊",
-        "Suppress Messages": "關閉訊息資訊",
-        "Suspend Development Tools": "隱藏開發工具"
+        "Object Library": "Libreria oggetti",
+        "Image Library": "Libreria immagini",
+        "Plugins": "Plugins",
+        "Plugin Settings": "Impostazione plugins",
+        "Test": "Test",
+        "Test Target": "Bersaglio test",
+        "Script Debug Mode": "Script Debug Mode",
+        "Clear All Breakpoints": "Smarca tutti i breakpoint",
+        "Message Watcher": "Message Watcher",
+        "Suppress Errors": "Zittisci gli errori",
+        "Suppress Messages": "Zittisci i messaggi",
+        "Suspend Development Tools": "Fai saprire gli strumenti di sviluppo"
       },
       "View": {
         "Go First": "切換到第一張Card",
