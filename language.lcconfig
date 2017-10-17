@@ -2,8 +2,7 @@
   "Settings": {
     "TargetLang": "zh_TW", "it"
     "Version": "1.1"
-  },
-  
+  },  
   "it": {
     "MenuBar": {
       "RightClickMenu": {
@@ -97,14 +96,14 @@
         "Preferences": "Preferenze"
       },
       "Tools": {
-        "Browse Tool": "執行模式",
-        "Pointer Tool": "編輯模式",
-        "Tools Palette": "控制項面板",
-        "Paint and Draw Tools": "繪圖工具",
-        "Application Browser": "應用程式開發瀏覽器",
-        "Project Browser": "應用程式專案開發瀏覽器",
-        "Message Box": "訊息面板",
-        "Menu Builder": "選單建立工具"
+        "Browse Tool": "Modifica",
+        "Pointer Tool": "Usa",
+        "Tools Palette": "Oggetti",
+        "Paint and Draw Tools": "Strumenti di disegno",
+        "Application Browser": "Application browser",
+        "Project Browser": "Project browser",
+        "Message Box": "Terminale",
+        "Menu Builder": "Crea menu"
       },
       "Object": {
         "180": "180度",
